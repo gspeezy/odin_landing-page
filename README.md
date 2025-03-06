@@ -1,1 +1,1 @@
-# odin_landing-page
+The landing page exercise from The Odin Project 'Foundations'.
